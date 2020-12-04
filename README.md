@@ -1,4 +1,4 @@
-"# Classification_Based_Supervised_Machine_Learning_Algorithm" 
+"####################### Classification_Based_Supervised_Machine_Learning_Algorithm ######################################################" <br/>
 .
 This repository provides the practical implementation of classification based supervised Learning Algorithm which are listed below:<br/>
 •	Decision Tree <br/>
@@ -24,7 +24,6 @@ Thus the accuracy level in SVM is found to have  0.9 = 90%. <br/>
 
 Based on the comparision table mentioned below : <br/>
 
-SR NO 	Classification Algorithm 	Accuracy level <br/>
 1	      SVM 	                    0.9 = 90% <br/>
 2	      Random Forest 	        0.91 = 91% <br/>
 3	      Decision Tree	            0.91 = 91%<br/>
