@@ -15,7 +15,7 @@ We have compared the accuracy level using the confusion matrix techniques :
 
 Let us understand how confusion matrix works, considering the results obtained from the SVM algorithm:
 
-The confusion matrix :     [[65  3]
+The confusion matrix :     [[66  2]
                             [ 8 24]]
 Where 
 65 indicating the prediction made in 65 number of people purchasing SUV is correct.
